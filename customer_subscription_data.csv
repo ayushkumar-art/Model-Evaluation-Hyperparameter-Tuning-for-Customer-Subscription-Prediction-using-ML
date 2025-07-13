@@ -1,0 +1,1001 @@
+Age,Gender,MonthlyUsageHours,SubscriptionLength,ComplaintsMade,PaymentMethod,PremiumSubscribed
+56,Male,85,1,4,PayPal,No
+69,Male,44,24,2,Credit Card,Yes
+46,Male,49,35,3,Bank Transfer,Yes
+32,Female,66,24,2,PayPal,No
+60,Male,97,17,4,Bank Transfer,No
+25,Male,62,5,0,PayPal,Yes
+38,Male,71,20,4,PayPal,Yes
+56,Female,60,21,1,Bank Transfer,Yes
+36,Female,44,31,1,PayPal,No
+40,Male,44,11,3,PayPal,No
+28,Male,95,15,4,Bank Transfer,No
+28,Male,81,19,3,PayPal,No
+41,Male,37,7,3,PayPal,No
+53,Female,10,28,1,PayPal,Yes
+57,Female,92,5,3,Bank Transfer,Yes
+41,Female,23,5,1,Credit Card,Yes
+20,Female,84,30,0,Bank Transfer,No
+39,Male,44,32,4,Credit Card,No
+19,Male,96,8,3,PayPal,Yes
+41,Male,63,10,1,Credit Card,Yes
+61,Female,63,32,2,Bank Transfer,No
+47,Male,52,28,3,Bank Transfer,No
+55,Female,45,17,0,PayPal,Yes
+19,Female,17,31,0,Credit Card,No
+38,Male,49,8,2,PayPal,No
+50,Male,93,25,1,PayPal,Yes
+29,Male,57,9,3,Bank Transfer,No
+39,Female,46,2,1,Credit Card,Yes
+61,Male,67,15,0,Credit Card,No
+42,Female,31,3,1,Credit Card,No
+66,Male,42,4,0,Credit Card,No
+44,Female,64,14,1,PayPal,No
+59,Female,11,25,2,PayPal,Yes
+45,Male,9,10,4,Bank Transfer,No
+33,Female,49,21,2,PayPal,No
+32,Female,62,12,2,PayPal,No
+64,Male,35,27,4,Bank Transfer,No
+68,Female,27,2,4,Bank Transfer,No
+61,Male,46,13,3,Bank Transfer,No
+69,Female,14,32,3,PayPal,Yes
+20,Male,36,31,2,PayPal,No
+54,Male,57,16,2,Bank Transfer,No
+68,Female,34,32,0,Bank Transfer,No
+24,Female,43,32,0,Bank Transfer,No
+38,Female,35,34,3,PayPal,Yes
+26,Female,86,11,3,PayPal,Yes
+56,Female,6,10,0,Credit Card,No
+35,Male,82,15,0,PayPal,No
+21,Female,81,17,1,PayPal,Yes
+42,Male,97,18,1,PayPal,No
+31,Male,16,9,0,Bank Transfer,Yes
+67,Female,43,25,1,PayPal,No
+26,Male,70,14,4,Bank Transfer,No
+43,Male,17,25,3,Credit Card,Yes
+19,Male,50,22,3,Credit Card,Yes
+37,Male,31,30,0,Bank Transfer,Yes
+45,Female,21,20,2,Bank Transfer,No
+64,Male,99,21,0,Bank Transfer,Yes
+24,Female,64,32,1,PayPal,Yes
+61,Female,68,21,2,Credit Card,No
+25,Male,92,35,1,Bank Transfer,No
+64,Female,39,32,4,PayPal,No
+52,Female,74,30,1,Credit Card,No
+31,Female,87,12,4,PayPal,Yes
+34,Male,34,18,4,Credit Card,No
+53,Female,75,21,1,PayPal,No
+67,Female,78,13,1,Credit Card,No
+57,Female,67,21,4,Credit Card,Yes
+21,Male,32,8,2,PayPal,No
+19,Female,64,7,4,Bank Transfer,No
+23,Male,83,23,3,Credit Card,No
+59,Male,98,32,4,Bank Transfer,Yes
+21,Male,41,11,2,PayPal,Yes
+46,Male,97,22,3,Bank Transfer,Yes
+35,Male,26,22,0,Bank Transfer,Yes
+43,Male,72,25,0,Bank Transfer,No
+61,Female,24,22,2,Bank Transfer,Yes
+51,Male,72,28,4,Bank Transfer,No
+27,Female,95,29,1,Credit Card,Yes
+53,Female,68,13,2,Credit Card,Yes
+31,Male,21,18,3,Credit Card,No
+48,Female,16,2,3,PayPal,Yes
+65,Female,26,29,0,Bank Transfer,No
+32,Female,21,21,3,Credit Card,No
+25,Female,14,15,2,PayPal,Yes
+31,Male,69,27,3,Credit Card,Yes
+40,Female,26,31,2,Credit Card,Yes
+57,Male,94,15,1,Bank Transfer,Yes
+38,Female,86,23,0,PayPal,Yes
+33,Female,54,24,3,Bank Transfer,Yes
+62,Male,18,13,2,Bank Transfer,Yes
+35,Female,68,22,4,Credit Card,No
+64,Female,51,33,0,Bank Transfer,No
+41,Female,33,3,1,PayPal,No
+43,Male,80,19,2,Bank Transfer,Yes
+42,Female,40,23,1,Bank Transfer,Yes
+62,Male,56,29,1,Bank Transfer,No
+58,Female,80,30,3,Credit Card,No
+46,Male,11,25,3,PayPal,No
+32,Male,33,8,2,Credit Card,Yes
+62,Female,15,16,4,Credit Card,No
+18,Female,37,8,2,Credit Card,No
+42,Male,10,1,4,Credit Card,Yes
+24,Male,83,5,1,Credit Card,No
+26,Female,36,3,0,PayPal,No
+41,Male,55,1,2,Bank Transfer,Yes
+18,Female,79,4,2,Credit Card,Yes
+61,Female,62,35,4,Credit Card,No
+25,Female,91,32,1,PayPal,No
+41,Female,30,34,1,PayPal,Yes
+28,Male,50,25,4,Bank Transfer,Yes
+68,Female,33,10,1,PayPal,Yes
+34,Male,8,21,3,Bank Transfer,No
+25,Female,85,27,0,Credit Card,Yes
+52,Male,17,27,2,Credit Card,No
+52,Female,43,2,0,Bank Transfer,Yes
+50,Male,19,13,2,PayPal,Yes
+22,Male,33,9,3,Bank Transfer,No
+59,Female,33,22,1,PayPal,No
+56,Female,79,26,4,Credit Card,No
+58,Female,36,12,3,PayPal,No
+45,Female,6,17,0,Bank Transfer,No
+24,Male,51,14,4,Bank Transfer,Yes
+26,Female,82,14,1,Credit Card,No
+25,Male,88,34,3,PayPal,Yes
+29,Male,26,20,4,PayPal,No
+51,Female,79,11,3,PayPal,No
+50,Male,31,16,3,Credit Card,Yes
+65,Male,71,31,1,PayPal,No
+40,Male,85,6,2,Bank Transfer,Yes
+41,Male,60,19,4,PayPal,Yes
+54,Female,96,4,1,Credit Card,No
+52,Female,97,4,3,PayPal,Yes
+61,Female,25,20,1,PayPal,No
+57,Female,51,10,2,Bank Transfer,Yes
+39,Male,84,24,4,PayPal,Yes
+44,Male,63,35,2,Bank Transfer,Yes
+52,Female,88,26,0,Bank Transfer,Yes
+18,Female,10,21,4,Credit Card,No
+52,Female,23,21,2,Bank Transfer,No
+54,Male,61,10,3,Bank Transfer,No
+64,Female,73,4,4,Credit Card,No
+31,Female,7,20,4,Bank Transfer,Yes
+20,Female,5,17,1,Credit Card,No
+18,Male,62,7,3,PayPal,Yes
+22,Male,42,4,0,Credit Card,Yes
+43,Male,19,29,2,Bank Transfer,No
+31,Male,38,14,1,Credit Card,Yes
+56,Male,65,3,2,Bank Transfer,Yes
+44,Male,39,24,0,PayPal,No
+26,Male,68,16,0,Credit Card,No
+32,Male,29,4,4,PayPal,No
+32,Female,28,24,0,Bank Transfer,Yes
+43,Female,16,34,2,Bank Transfer,Yes
+59,Male,22,30,3,PayPal,No
+30,Male,19,18,3,Credit Card,Yes
+68,Female,84,19,4,Credit Card,No
+49,Male,31,31,2,Bank Transfer,Yes
+56,Male,76,19,2,PayPal,No
+66,Male,64,19,0,PayPal,Yes
+69,Female,50,22,2,Credit Card,No
+49,Female,93,24,1,Credit Card,No
+21,Female,21,12,0,Credit Card,No
+47,Female,97,30,1,PayPal,Yes
+54,Female,57,31,4,Credit Card,No
+40,Male,12,19,3,Credit Card,No
+56,Female,83,30,4,Bank Transfer,Yes
+62,Male,31,33,3,Credit Card,No
+32,Male,50,18,4,Credit Card,Yes
+60,Female,54,28,2,PayPal,Yes
+46,Female,75,11,1,PayPal,No
+53,Male,7,33,3,Bank Transfer,Yes
+30,Male,97,17,0,Credit Card,No
+49,Male,68,6,1,Bank Transfer,Yes
+24,Female,48,4,0,PayPal,No
+68,Female,57,20,1,Bank Transfer,No
+39,Female,28,27,1,PayPal,No
+45,Female,64,15,4,Bank Transfer,Yes
+19,Female,7,6,3,Bank Transfer,Yes
+59,Male,24,14,3,Credit Card,No
+62,Female,50,11,1,Bank Transfer,Yes
+23,Male,19,9,2,Credit Card,Yes
+45,Male,29,26,2,Credit Card,No
+45,Male,98,16,0,Credit Card,No
+61,Female,82,5,0,Credit Card,No
+61,Female,75,10,4,Bank Transfer,Yes
+37,Female,21,3,1,PayPal,Yes
+47,Male,88,13,0,PayPal,Yes
+28,Male,13,30,0,PayPal,No
+45,Male,42,6,1,Bank Transfer,No
+42,Male,52,17,4,Credit Card,No
+56,Male,64,19,0,PayPal,No
+50,Male,67,35,4,Bank Transfer,No
+18,Female,90,26,3,Credit Card,No
+44,Female,6,5,4,PayPal,Yes
+69,Female,92,29,2,Credit Card,No
+30,Female,76,20,2,PayPal,No
+58,Male,15,21,4,PayPal,No
+20,Male,68,10,2,PayPal,No
+56,Female,81,5,3,Credit Card,No
+23,Male,85,6,1,Bank Transfer,No
+25,Female,76,26,2,Credit Card,No
+44,Female,25,4,2,PayPal,No
+26,Female,22,35,4,Credit Card,Yes
+54,Male,98,1,3,Bank Transfer,Yes
+50,Female,68,24,1,Credit Card,No
+68,Female,86,6,4,Bank Transfer,No
+59,Female,99,31,4,Bank Transfer,Yes
+61,Male,42,20,3,Credit Card,No
+41,Male,36,24,1,PayPal,Yes
+32,Female,15,25,3,Bank Transfer,Yes
+49,Male,49,21,1,Credit Card,No
+49,Male,93,30,3,Bank Transfer,Yes
+41,Male,37,24,4,PayPal,Yes
+58,Male,45,30,4,Credit Card,Yes
+69,Male,12,22,0,Credit Card,No
+66,Male,15,28,2,Credit Card,No
+66,Male,90,7,3,PayPal,No
+69,Male,55,35,0,Bank Transfer,No
+29,Male,92,28,2,Credit Card,Yes
+56,Male,45,14,3,Bank Transfer,No
+19,Female,21,10,1,Bank Transfer,Yes
+20,Female,80,16,2,PayPal,No
+66,Male,50,16,4,Credit Card,No
+54,Female,36,31,0,Bank Transfer,No
+66,Female,83,25,2,Credit Card,Yes
+34,Male,84,13,2,Credit Card,No
+66,Male,58,6,4,PayPal,Yes
+19,Male,90,9,3,Credit Card,Yes
+19,Female,96,20,1,Credit Card,No
+45,Female,24,18,4,Bank Transfer,Yes
+40,Male,37,21,1,PayPal,No
+54,Male,78,4,3,Credit Card,Yes
+49,Male,44,33,2,Bank Transfer,Yes
+50,Female,36,27,1,PayPal,No
+18,Female,6,7,0,PayPal,No
+36,Female,37,6,0,Bank Transfer,No
+19,Female,81,15,4,Bank Transfer,No
+61,Male,34,18,3,Bank Transfer,No
+43,Male,37,32,4,Bank Transfer,Yes
+49,Male,81,11,4,Bank Transfer,No
+23,Male,30,20,4,Credit Card,No
+49,Female,26,24,0,Credit Card,No
+21,Female,70,15,0,PayPal,No
+28,Male,42,7,4,Credit Card,No
+34,Male,94,21,0,Credit Card,No
+55,Female,50,26,3,Credit Card,No
+41,Male,19,14,4,Bank Transfer,Yes
+22,Female,48,21,0,PayPal,Yes
+69,Male,53,18,1,PayPal,No
+51,Male,79,5,4,PayPal,Yes
+23,Male,65,3,4,PayPal,No
+39,Male,71,23,3,Credit Card,Yes
+28,Male,10,26,2,Credit Card,No
+65,Male,13,24,2,Bank Transfer,Yes
+33,Male,10,19,3,PayPal,Yes
+50,Female,77,25,3,Credit Card,No
+26,Female,99,21,3,Credit Card,No
+23,Female,36,12,2,Bank Transfer,No
+33,Female,45,33,3,Bank Transfer,No
+46,Female,80,4,0,Bank Transfer,No
+20,Male,12,7,4,Credit Card,No
+37,Male,76,22,4,Credit Card,No
+53,Female,54,33,1,Bank Transfer,Yes
+36,Male,96,17,1,PayPal,No
+43,Female,66,24,4,Bank Transfer,No
+20,Female,88,34,0,Bank Transfer,No
+36,Male,66,28,2,Bank Transfer,Yes
+37,Male,11,22,2,Bank Transfer,No
+49,Male,79,17,0,Credit Card,No
+24,Female,88,34,2,PayPal,No
+69,Male,84,6,3,Bank Transfer,Yes
+58,Female,8,6,4,PayPal,No
+50,Female,10,34,4,PayPal,Yes
+57,Female,62,1,0,PayPal,Yes
+56,Male,26,10,2,Bank Transfer,No
+35,Male,30,21,1,Credit Card,No
+57,Female,7,5,1,Bank Transfer,No
+18,Male,45,2,2,PayPal,No
+28,Male,64,22,1,PayPal,Yes
+45,Male,18,2,0,Credit Card,Yes
+42,Female,79,10,0,Bank Transfer,No
+67,Female,86,34,2,PayPal,Yes
+40,Male,16,16,1,Credit Card,Yes
+48,Female,91,22,0,PayPal,Yes
+47,Male,16,12,0,Credit Card,Yes
+59,Male,17,24,3,Credit Card,No
+52,Male,29,10,3,Bank Transfer,Yes
+24,Male,49,35,0,PayPal,No
+33,Female,23,32,2,Bank Transfer,Yes
+43,Female,59,7,4,PayPal,No
+65,Female,49,21,4,Bank Transfer,Yes
+69,Male,12,20,0,PayPal,No
+66,Male,97,26,0,Bank Transfer,No
+19,Male,57,4,0,Credit Card,Yes
+18,Female,59,22,2,PayPal,No
+65,Male,36,15,3,PayPal,Yes
+29,Female,55,21,0,Credit Card,No
+22,Female,48,15,0,Bank Transfer,Yes
+54,Female,86,22,1,PayPal,No
+49,Female,74,28,2,PayPal,Yes
+26,Female,22,14,0,Bank Transfer,No
+58,Female,87,27,1,Credit Card,Yes
+52,Male,26,28,4,Bank Transfer,Yes
+36,Male,41,26,0,Bank Transfer,No
+65,Female,60,2,0,Bank Transfer,No
+33,Female,63,25,1,PayPal,Yes
+20,Male,7,3,2,Credit Card,Yes
+37,Female,32,8,0,Credit Card,Yes
+41,Female,78,33,4,Bank Transfer,Yes
+50,Male,39,35,0,PayPal,Yes
+41,Female,65,6,4,Bank Transfer,No
+69,Female,97,23,3,PayPal,Yes
+28,Female,58,25,3,PayPal,Yes
+66,Male,67,19,4,PayPal,No
+25,Male,83,5,2,PayPal,Yes
+53,Male,11,11,0,Credit Card,Yes
+55,Female,80,12,0,PayPal,Yes
+57,Female,53,10,3,PayPal,No
+37,Male,98,8,4,Bank Transfer,Yes
+52,Female,89,24,0,Bank Transfer,No
+65,Female,35,28,0,Credit Card,Yes
+42,Female,62,21,2,Bank Transfer,No
+52,Female,65,8,1,PayPal,Yes
+42,Female,28,9,3,Bank Transfer,No
+46,Male,24,15,3,Credit Card,No
+35,Female,41,18,1,Bank Transfer,No
+63,Male,8,20,0,Bank Transfer,Yes
+35,Female,96,6,2,Credit Card,Yes
+19,Male,24,12,2,Credit Card,Yes
+52,Female,64,2,3,PayPal,Yes
+33,Male,28,7,2,Bank Transfer,Yes
+58,Female,54,16,1,PayPal,No
+53,Male,53,3,0,Bank Transfer,Yes
+50,Female,55,3,1,Bank Transfer,No
+21,Male,40,27,4,PayPal,No
+50,Female,70,33,3,Bank Transfer,No
+31,Male,83,28,2,Bank Transfer,Yes
+38,Male,38,1,4,Bank Transfer,No
+65,Female,40,8,2,Credit Card,Yes
+37,Female,10,32,0,PayPal,No
+25,Male,43,4,0,Credit Card,No
+24,Female,46,30,0,PayPal,No
+20,Male,62,6,2,PayPal,No
+34,Male,16,19,4,Bank Transfer,Yes
+50,Male,7,32,0,PayPal,Yes
+65,Female,22,9,4,Credit Card,No
+29,Male,44,12,2,Credit Card,Yes
+68,Male,25,11,4,Credit Card,No
+39,Female,19,16,2,PayPal,Yes
+39,Female,30,1,2,Credit Card,Yes
+63,Female,12,21,3,PayPal,Yes
+47,Female,98,30,2,Credit Card,Yes
+55,Male,91,13,2,Credit Card,No
+55,Male,46,34,1,PayPal,No
+62,Male,48,4,0,Credit Card,No
+68,Male,18,28,3,Bank Transfer,No
+25,Female,82,31,3,PayPal,No
+44,Male,6,27,3,PayPal,No
+44,Male,41,5,1,PayPal,Yes
+51,Female,73,25,2,Bank Transfer,No
+38,Male,42,3,0,PayPal,Yes
+47,Male,45,33,4,Credit Card,Yes
+50,Male,66,4,2,Credit Card,No
+45,Male,64,25,1,Credit Card,Yes
+64,Male,18,20,2,PayPal,Yes
+50,Male,93,34,2,Credit Card,Yes
+22,Female,88,26,1,PayPal,Yes
+65,Female,6,5,3,Credit Card,No
+36,Male,74,35,3,Bank Transfer,Yes
+21,Male,21,28,0,Bank Transfer,Yes
+52,Female,93,29,0,Bank Transfer,No
+66,Male,32,9,3,Bank Transfer,Yes
+34,Male,70,6,4,PayPal,No
+61,Male,39,19,2,Credit Card,Yes
+45,Female,9,11,4,Bank Transfer,No
+47,Male,69,2,2,PayPal,No
+46,Female,44,9,3,Bank Transfer,No
+63,Male,80,21,0,Bank Transfer,No
+23,Female,60,24,0,PayPal,No
+52,Female,40,34,4,PayPal,Yes
+58,Male,49,22,0,Credit Card,Yes
+54,Female,27,3,3,Credit Card,Yes
+41,Male,51,12,4,Bank Transfer,No
+46,Female,35,28,2,Bank Transfer,Yes
+66,Male,15,30,0,Credit Card,Yes
+63,Male,14,26,1,Credit Card,Yes
+48,Female,71,21,0,PayPal,Yes
+52,Male,18,28,2,Credit Card,Yes
+50,Male,84,26,4,Credit Card,No
+69,Female,78,33,2,Bank Transfer,No
+38,Male,97,21,1,Credit Card,No
+49,Male,14,35,3,Bank Transfer,No
+40,Female,80,34,0,Credit Card,Yes
+50,Female,98,18,4,PayPal,Yes
+20,Male,5,11,3,Credit Card,Yes
+35,Male,9,23,2,Credit Card,Yes
+42,Female,24,22,4,Credit Card,No
+59,Female,12,17,3,Bank Transfer,Yes
+48,Male,47,5,4,PayPal,Yes
+20,Female,80,11,1,Credit Card,No
+57,Male,5,30,1,Bank Transfer,No
+63,Male,61,15,0,PayPal,No
+41,Male,68,27,0,Bank Transfer,No
+67,Male,88,35,1,Bank Transfer,No
+49,Male,32,33,4,PayPal,Yes
+64,Female,41,20,1,Credit Card,No
+39,Female,51,16,0,Bank Transfer,Yes
+40,Female,80,34,1,Bank Transfer,No
+19,Female,41,2,1,Credit Card,No
+44,Male,53,35,4,Credit Card,Yes
+59,Male,48,28,3,PayPal,No
+19,Male,60,6,0,PayPal,No
+43,Male,32,9,4,PayPal,Yes
+34,Female,83,20,1,Credit Card,No
+57,Male,10,1,1,Bank Transfer,Yes
+50,Male,65,8,3,Bank Transfer,No
+26,Female,24,23,0,PayPal,No
+60,Female,82,3,0,Credit Card,No
+65,Female,6,4,2,Bank Transfer,No
+56,Female,77,25,0,PayPal,No
+46,Male,41,15,3,Bank Transfer,No
+59,Male,24,21,2,Bank Transfer,Yes
+43,Female,30,35,2,Credit Card,No
+52,Male,33,14,1,Credit Card,Yes
+67,Male,5,12,1,Bank Transfer,No
+42,Male,39,17,0,PayPal,Yes
+41,Female,74,9,2,Credit Card,Yes
+30,Male,63,35,1,Bank Transfer,No
+24,Female,73,13,3,Credit Card,Yes
+53,Male,37,15,1,Credit Card,Yes
+62,Male,55,18,1,Credit Card,Yes
+37,Male,82,33,2,Bank Transfer,Yes
+18,Female,16,6,2,PayPal,Yes
+25,Male,24,27,4,PayPal,Yes
+63,Female,57,23,3,PayPal,No
+33,Female,92,27,2,Credit Card,Yes
+31,Female,47,34,0,Bank Transfer,No
+29,Male,93,14,3,Credit Card,Yes
+68,Male,54,8,3,PayPal,No
+40,Male,33,35,2,PayPal,No
+32,Male,61,19,3,Bank Transfer,Yes
+45,Female,43,30,2,Credit Card,No
+51,Female,99,14,1,PayPal,No
+19,Female,60,20,4,Bank Transfer,No
+49,Male,47,25,1,Credit Card,No
+40,Female,54,24,2,Credit Card,Yes
+39,Male,27,14,2,PayPal,No
+68,Female,48,26,1,PayPal,No
+42,Male,42,23,0,Credit Card,No
+39,Male,88,22,0,Credit Card,Yes
+39,Female,27,19,0,PayPal,No
+66,Female,49,3,2,Credit Card,No
+69,Female,56,19,3,PayPal,Yes
+59,Female,84,9,2,Credit Card,Yes
+23,Male,54,28,3,PayPal,Yes
+32,Female,12,20,1,Bank Transfer,No
+60,Female,89,7,4,PayPal,No
+54,Female,5,14,3,PayPal,No
+50,Male,12,9,0,Bank Transfer,No
+25,Male,33,19,2,Credit Card,No
+61,Female,9,14,1,Bank Transfer,Yes
+61,Male,90,17,0,PayPal,No
+22,Female,51,30,1,Credit Card,No
+56,Male,38,9,4,Bank Transfer,No
+21,Male,69,33,2,Credit Card,No
+23,Male,59,25,2,Credit Card,No
+62,Male,94,14,4,Bank Transfer,No
+49,Female,47,11,2,Credit Card,No
+69,Female,78,35,3,Bank Transfer,No
+47,Female,34,14,1,PayPal,No
+64,Male,86,30,0,Credit Card,Yes
+52,Female,21,4,4,PayPal,Yes
+57,Female,30,4,3,PayPal,Yes
+69,Female,12,28,0,Credit Card,No
+33,Male,51,8,0,Bank Transfer,Yes
+30,Male,80,2,4,Credit Card,Yes
+67,Male,95,22,3,PayPal,Yes
+59,Female,76,16,0,PayPal,Yes
+47,Female,93,29,0,Bank Transfer,No
+36,Female,50,30,3,Credit Card,Yes
+34,Male,72,12,2,PayPal,No
+36,Male,37,35,0,PayPal,No
+45,Female,5,11,1,PayPal,No
+43,Male,23,21,3,Bank Transfer,Yes
+54,Male,35,21,0,PayPal,No
+43,Male,84,5,4,PayPal,No
+40,Male,18,20,1,Credit Card,No
+26,Female,57,3,0,Credit Card,No
+29,Male,52,33,1,PayPal,Yes
+18,Male,73,9,1,PayPal,Yes
+18,Male,94,9,2,Credit Card,Yes
+64,Male,66,4,1,Bank Transfer,No
+51,Female,96,35,2,Bank Transfer,Yes
+49,Female,70,17,3,Bank Transfer,Yes
+65,Male,68,34,2,Bank Transfer,No
+42,Male,74,24,4,Bank Transfer,Yes
+57,Male,67,32,0,Bank Transfer,Yes
+62,Male,77,1,3,Bank Transfer,No
+18,Male,37,8,3,Bank Transfer,Yes
+33,Male,45,23,4,Credit Card,Yes
+56,Female,93,12,2,Bank Transfer,No
+22,Male,52,12,0,Bank Transfer,No
+39,Female,17,15,2,Bank Transfer,No
+46,Female,77,19,1,PayPal,No
+20,Male,81,26,2,Credit Card,No
+29,Female,35,29,3,Credit Card,No
+43,Female,79,22,0,Credit Card,No
+33,Female,72,21,2,Bank Transfer,No
+68,Female,8,20,0,Bank Transfer,No
+54,Female,23,29,0,PayPal,No
+39,Female,74,4,1,Credit Card,Yes
+46,Male,86,7,1,Bank Transfer,Yes
+31,Female,17,28,3,Credit Card,Yes
+45,Female,27,28,4,PayPal,No
+22,Female,87,4,0,PayPal,No
+64,Male,79,22,4,PayPal,No
+66,Female,5,12,3,Credit Card,Yes
+47,Male,92,3,0,Bank Transfer,No
+63,Female,58,22,0,Bank Transfer,Yes
+69,Male,75,2,4,PayPal,Yes
+22,Male,93,24,2,Bank Transfer,Yes
+29,Female,89,34,1,PayPal,No
+33,Female,19,27,2,Credit Card,No
+43,Male,69,1,4,PayPal,No
+43,Female,80,8,1,Credit Card,Yes
+65,Male,75,23,2,PayPal,No
+38,Male,19,6,1,Bank Transfer,No
+56,Male,25,22,0,Bank Transfer,Yes
+53,Male,23,25,2,PayPal,No
+50,Male,64,18,1,Bank Transfer,No
+47,Female,97,17,1,Bank Transfer,No
+54,Male,93,12,1,Bank Transfer,No
+40,Male,37,6,2,Credit Card,No
+27,Female,53,26,3,Bank Transfer,Yes
+22,Male,39,27,2,Credit Card,No
+53,Female,48,8,4,PayPal,Yes
+51,Female,94,19,2,Bank Transfer,Yes
+69,Female,15,1,1,Bank Transfer,Yes
+48,Male,76,29,0,Bank Transfer,No
+27,Male,82,35,2,PayPal,No
+36,Male,78,14,2,Credit Card,Yes
+49,Female,70,35,1,Credit Card,No
+18,Male,50,20,0,Bank Transfer,No
+22,Female,13,13,0,PayPal,Yes
+62,Male,7,8,4,PayPal,Yes
+21,Female,89,20,2,PayPal,No
+33,Male,30,33,0,PayPal,Yes
+41,Male,76,26,0,PayPal,No
+33,Male,52,21,3,Credit Card,Yes
+19,Female,70,9,3,Credit Card,No
+66,Female,74,24,0,Credit Card,No
+45,Male,32,17,4,Bank Transfer,No
+49,Male,97,24,0,PayPal,No
+44,Female,30,21,1,Bank Transfer,No
+37,Female,29,13,2,PayPal,No
+41,Female,16,11,4,Credit Card,No
+29,Male,9,19,1,Bank Transfer,Yes
+67,Female,52,11,4,Credit Card,No
+52,Male,41,13,1,PayPal,Yes
+50,Female,83,1,2,PayPal,No
+50,Male,48,19,2,PayPal,Yes
+68,Female,19,12,3,Credit Card,No
+60,Female,47,8,1,PayPal,Yes
+54,Female,52,8,3,Credit Card,No
+29,Female,91,12,1,Bank Transfer,No
+20,Female,74,33,3,PayPal,Yes
+18,Male,50,26,2,PayPal,No
+50,Female,47,28,4,PayPal,Yes
+57,Female,25,5,3,Bank Transfer,No
+27,Female,27,8,1,PayPal,No
+60,Male,84,25,1,Credit Card,Yes
+61,Female,51,27,2,Credit Card,No
+46,Male,19,23,1,PayPal,Yes
+30,Female,29,30,0,PayPal,Yes
+29,Female,40,23,4,Bank Transfer,No
+48,Male,79,20,3,Bank Transfer,Yes
+63,Female,55,18,4,Bank Transfer,No
+19,Male,19,18,2,PayPal,No
+68,Male,72,2,3,Bank Transfer,Yes
+67,Female,25,4,3,Bank Transfer,No
+52,Male,17,30,0,Credit Card,Yes
+40,Female,90,33,2,Bank Transfer,No
+34,Female,23,18,1,Credit Card,Yes
+43,Male,38,19,0,Credit Card,Yes
+25,Male,82,28,0,Bank Transfer,Yes
+46,Male,72,20,4,Credit Card,No
+43,Male,56,33,4,PayPal,No
+27,Female,31,12,4,PayPal,No
+43,Female,33,15,0,Bank Transfer,No
+51,Male,32,2,1,PayPal,No
+68,Female,39,29,3,Credit Card,No
+58,Female,12,10,4,PayPal,Yes
+24,Female,20,2,1,Bank Transfer,No
+21,Female,40,11,2,Bank Transfer,No
+67,Male,34,13,4,Credit Card,Yes
+62,Male,22,10,3,Bank Transfer,No
+28,Female,6,14,2,PayPal,No
+46,Male,53,18,2,Bank Transfer,No
+53,Male,81,9,3,Credit Card,No
+42,Male,8,28,4,Bank Transfer,Yes
+38,Female,94,3,0,PayPal,Yes
+53,Female,93,20,3,Credit Card,Yes
+27,Female,98,6,3,PayPal,No
+54,Male,79,27,3,Credit Card,Yes
+26,Female,11,2,2,Bank Transfer,No
+41,Female,99,29,1,Credit Card,Yes
+52,Male,78,3,0,Credit Card,Yes
+66,Female,43,16,4,Bank Transfer,No
+52,Female,17,30,4,PayPal,No
+65,Male,35,2,1,Bank Transfer,Yes
+53,Male,75,17,3,Credit Card,No
+35,Male,67,12,0,Bank Transfer,No
+66,Female,60,35,4,Credit Card,Yes
+56,Female,46,1,4,Bank Transfer,Yes
+49,Female,65,15,3,Bank Transfer,No
+41,Male,46,26,1,PayPal,No
+40,Male,60,21,0,Credit Card,Yes
+49,Female,40,31,1,PayPal,No
+54,Female,88,25,1,Credit Card,No
+29,Male,72,23,0,Bank Transfer,No
+66,Male,11,24,0,Credit Card,No
+30,Male,58,28,4,PayPal,No
+40,Male,5,21,4,PayPal,No
+42,Female,48,18,0,PayPal,No
+52,Male,49,35,2,Credit Card,No
+58,Female,51,9,4,PayPal,No
+47,Female,17,30,2,PayPal,No
+34,Female,26,34,0,PayPal,Yes
+66,Male,25,32,4,Bank Transfer,No
+37,Male,90,3,1,Bank Transfer,No
+65,Male,96,3,0,Credit Card,No
+42,Male,13,28,3,Credit Card,No
+39,Female,30,15,2,PayPal,No
+30,Male,13,23,0,Bank Transfer,Yes
+36,Male,19,11,0,PayPal,No
+66,Female,14,32,4,PayPal,No
+53,Male,92,33,4,Bank Transfer,Yes
+29,Female,46,24,4,Bank Transfer,Yes
+58,Female,76,34,3,Bank Transfer,No
+36,Female,28,28,4,Credit Card,Yes
+29,Female,84,7,0,Credit Card,Yes
+26,Female,53,4,4,PayPal,No
+24,Female,30,1,1,Credit Card,No
+45,Female,95,1,4,Bank Transfer,No
+31,Female,41,20,3,Bank Transfer,No
+48,Male,72,19,1,Credit Card,Yes
+69,Male,54,29,0,PayPal,No
+36,Male,28,10,0,PayPal,No
+64,Male,23,18,2,Credit Card,No
+33,Female,64,28,1,PayPal,No
+22,Male,43,35,2,PayPal,No
+52,Female,78,31,1,PayPal,No
+29,Male,93,27,1,Bank Transfer,No
+42,Male,22,11,3,Bank Transfer,No
+69,Male,23,5,2,Credit Card,No
+38,Female,40,8,3,Bank Transfer,No
+53,Male,78,34,1,PayPal,No
+40,Female,59,12,0,Bank Transfer,No
+33,Female,73,1,1,Credit Card,No
+56,Male,51,31,3,Bank Transfer,No
+62,Male,53,4,2,PayPal,No
+59,Male,37,5,2,PayPal,No
+56,Female,25,30,3,Credit Card,No
+31,Male,85,24,2,Bank Transfer,No
+48,Female,26,3,4,Bank Transfer,No
+22,Female,52,11,0,Bank Transfer,No
+52,Male,41,4,0,PayPal,No
+40,Male,19,26,0,Credit Card,No
+46,Female,39,27,2,Bank Transfer,No
+60,Female,96,27,2,PayPal,No
+28,Female,75,6,1,PayPal,Yes
+35,Male,36,15,1,PayPal,No
+64,Female,15,30,0,Bank Transfer,No
+29,Male,14,35,4,Bank Transfer,No
+26,Female,77,23,1,Bank Transfer,No
+27,Female,82,6,1,Bank Transfer,No
+61,Male,81,4,2,Bank Transfer,No
+34,Female,61,18,4,Bank Transfer,No
+55,Male,29,9,0,Bank Transfer,No
+24,Male,6,29,1,Bank Transfer,No
+63,Female,68,13,4,Bank Transfer,Yes
+30,Male,39,17,4,PayPal,No
+57,Male,11,32,0,Bank Transfer,No
+59,Female,89,22,4,Credit Card,Yes
+26,Male,22,4,4,PayPal,No
+67,Male,71,5,4,Bank Transfer,No
+44,Male,46,13,1,Credit Card,Yes
+19,Female,43,34,0,Bank Transfer,No
+22,Male,45,22,4,Credit Card,Yes
+46,Female,79,23,4,Credit Card,No
+54,Female,28,3,1,Credit Card,No
+55,Male,64,34,0,Credit Card,No
+36,Male,50,32,2,PayPal,Yes
+25,Male,23,21,1,PayPal,Yes
+65,Female,72,21,0,Credit Card,Yes
+62,Male,94,11,4,Bank Transfer,No
+18,Male,46,4,0,Credit Card,Yes
+39,Male,36,1,0,PayPal,No
+69,Male,43,28,0,Bank Transfer,Yes
+34,Male,40,24,2,PayPal,No
+24,Female,40,35,0,PayPal,Yes
+42,Female,7,13,2,Bank Transfer,Yes
+62,Male,77,34,4,Credit Card,No
+21,Male,12,11,2,Credit Card,Yes
+53,Male,74,17,4,Credit Card,Yes
+23,Male,45,35,4,Credit Card,No
+48,Female,72,18,2,Bank Transfer,No
+36,Male,17,22,1,Bank Transfer,No
+61,Female,53,24,3,Bank Transfer,Yes
+56,Female,64,19,0,PayPal,No
+44,Male,6,21,3,Bank Transfer,Yes
+27,Female,64,8,0,Credit Card,Yes
+43,Female,9,28,0,PayPal,No
+36,Female,48,5,4,Credit Card,No
+56,Female,31,17,0,Credit Card,Yes
+20,Male,36,19,0,Bank Transfer,No
+62,Male,25,27,2,Bank Transfer,Yes
+30,Female,12,34,3,Credit Card,No
+67,Male,76,11,2,Credit Card,Yes
+45,Male,54,12,0,PayPal,Yes
+37,Male,71,21,4,Bank Transfer,No
+45,Male,48,11,2,PayPal,No
+25,Male,62,28,2,PayPal,No
+58,Female,7,5,1,PayPal,Yes
+56,Male,90,17,0,Credit Card,Yes
+18,Male,74,20,4,PayPal,No
+20,Male,6,12,2,PayPal,Yes
+30,Male,91,6,2,Credit Card,No
+45,Female,48,17,4,Bank Transfer,Yes
+66,Female,6,19,0,Bank Transfer,No
+42,Female,85,26,1,PayPal,No
+50,Female,39,32,2,Credit Card,Yes
+55,Male,91,6,1,Bank Transfer,No
+23,Female,34,11,3,PayPal,No
+61,Male,12,33,0,PayPal,Yes
+62,Male,26,24,3,Credit Card,No
+49,Male,48,23,3,PayPal,No
+62,Male,62,15,3,Bank Transfer,Yes
+64,Male,40,27,0,Credit Card,No
+38,Female,73,11,0,Bank Transfer,Yes
+33,Female,81,17,4,Bank Transfer,No
+38,Female,97,14,1,Bank Transfer,No
+28,Female,35,27,1,PayPal,No
+54,Male,51,18,4,PayPal,No
+53,Female,59,28,4,Bank Transfer,No
+52,Male,84,4,3,Bank Transfer,No
+36,Female,66,7,4,Credit Card,Yes
+37,Male,34,35,2,Credit Card,No
+35,Male,59,9,1,PayPal,Yes
+64,Female,20,8,4,PayPal,No
+58,Male,16,17,2,Credit Card,No
+66,Male,21,17,2,Bank Transfer,Yes
+31,Female,20,33,2,PayPal,Yes
+32,Male,16,32,2,Bank Transfer,Yes
+48,Female,12,8,3,Credit Card,No
+18,Female,88,19,2,PayPal,No
+20,Female,7,3,3,PayPal,No
+33,Male,20,5,3,Credit Card,No
+40,Male,34,13,2,PayPal,No
+28,Male,27,31,1,Credit Card,Yes
+29,Female,96,16,2,PayPal,Yes
+27,Male,9,32,2,Credit Card,No
+49,Female,88,22,2,PayPal,No
+33,Female,69,29,1,Bank Transfer,Yes
+25,Male,34,22,0,Bank Transfer,Yes
+55,Female,25,3,0,Bank Transfer,Yes
+29,Male,88,10,3,PayPal,No
+41,Male,74,21,3,PayPal,Yes
+45,Male,26,16,1,Bank Transfer,No
+25,Male,86,12,4,Bank Transfer,No
+45,Male,76,2,0,Credit Card,Yes
+53,Female,36,24,3,Credit Card,No
+43,Female,37,35,0,Credit Card,No
+25,Female,20,30,1,Bank Transfer,No
+67,Male,80,30,1,Bank Transfer,No
+45,Male,42,35,4,Bank Transfer,No
+45,Male,18,19,4,Credit Card,No
+54,Female,40,8,1,PayPal,No
+58,Male,27,26,3,Bank Transfer,Yes
+53,Female,70,7,0,PayPal,Yes
+44,Female,89,30,2,PayPal,Yes
+34,Male,6,7,4,PayPal,Yes
+26,Male,95,3,2,Credit Card,Yes
+50,Female,77,1,3,PayPal,Yes
+37,Male,69,25,4,Bank Transfer,No
+30,Female,79,1,2,Credit Card,No
+45,Male,71,15,3,Bank Transfer,No
+65,Male,56,13,0,Bank Transfer,No
+46,Female,66,8,3,Credit Card,No
+30,Male,27,5,4,Bank Transfer,No
+63,Female,30,9,1,Bank Transfer,No
+52,Male,72,1,0,Credit Card,Yes
+23,Female,86,35,2,Bank Transfer,No
+35,Female,59,2,4,PayPal,No
+68,Male,10,23,1,Bank Transfer,No
+22,Female,39,9,3,PayPal,Yes
+64,Male,26,34,1,Bank Transfer,Yes
+42,Male,47,14,4,Credit Card,No
+19,Male,19,4,4,Credit Card,No
+27,Female,90,30,1,Bank Transfer,Yes
+47,Female,64,31,3,Credit Card,Yes
+67,Male,16,11,1,Bank Transfer,No
+62,Male,53,35,4,Credit Card,No
+22,Female,46,8,4,PayPal,Yes
+50,Male,42,3,2,Bank Transfer,No
+18,Male,86,14,2,PayPal,Yes
+35,Female,49,13,0,PayPal,Yes
+49,Male,39,32,4,Bank Transfer,No
+64,Female,34,34,2,PayPal,Yes
+66,Male,92,19,1,Bank Transfer,No
+28,Female,34,16,3,PayPal,No
+38,Male,82,2,1,Bank Transfer,No
+43,Male,10,17,3,Bank Transfer,Yes
+42,Female,71,34,2,Credit Card,Yes
+39,Male,84,16,0,Bank Transfer,Yes
+44,Female,11,2,1,Bank Transfer,No
+66,Male,56,2,1,PayPal,No
+30,Female,18,26,1,Bank Transfer,No
+50,Female,77,13,3,Credit Card,No
+51,Female,19,31,2,PayPal,No
+58,Female,25,34,1,PayPal,No
+52,Male,39,3,1,Credit Card,Yes
+18,Male,70,8,0,PayPal,Yes
+38,Female,95,23,0,PayPal,No
+65,Female,6,14,2,PayPal,Yes
+23,Female,39,27,2,PayPal,Yes
+45,Male,86,29,4,Credit Card,No
+34,Male,82,1,0,Credit Card,No
+22,Male,24,17,4,PayPal,Yes
+48,Male,86,30,3,PayPal,No
+22,Female,14,13,4,Credit Card,No
+55,Female,29,21,1,Credit Card,No
+20,Female,70,19,4,Credit Card,Yes
+40,Male,29,19,2,PayPal,Yes
+54,Male,58,25,3,PayPal,No
+54,Male,37,22,1,Bank Transfer,No
+27,Female,40,31,4,Credit Card,No
+27,Female,99,17,3,PayPal,No
+36,Male,18,23,3,Credit Card,Yes
+34,Female,69,32,1,PayPal,Yes
+38,Male,84,10,4,Credit Card,No
+31,Male,58,10,3,PayPal,Yes
+26,Female,56,8,3,Bank Transfer,Yes
+63,Male,7,20,0,Bank Transfer,No
+18,Female,45,32,3,Credit Card,Yes
+68,Male,10,14,0,PayPal,Yes
+62,Female,29,28,4,PayPal,No
+30,Female,17,24,4,Credit Card,Yes
+21,Female,12,15,4,PayPal,Yes
+18,Male,25,22,2,Credit Card,No
+66,Male,72,30,4,PayPal,No
+57,Female,29,4,3,Credit Card,Yes
+49,Female,83,13,1,PayPal,No
+51,Male,72,23,0,Credit Card,Yes
+45,Male,49,8,2,PayPal,No
+48,Male,64,18,4,Bank Transfer,No
+25,Female,16,12,4,PayPal,No
+56,Male,36,31,1,Credit Card,No
+43,Male,96,14,1,Bank Transfer,Yes
+51,Female,17,34,2,PayPal,Yes
+20,Male,35,18,0,Bank Transfer,No
+67,Male,82,34,4,PayPal,Yes
+29,Male,24,11,2,Bank Transfer,Yes
+18,Female,22,12,3,Credit Card,No
+61,Female,97,15,3,PayPal,No
+22,Female,64,31,2,PayPal,No
+47,Female,67,29,4,Credit Card,Yes
+47,Female,10,26,2,Bank Transfer,No
+34,Female,36,18,4,Credit Card,Yes
+65,Female,97,32,1,Credit Card,Yes
+64,Male,47,22,2,Bank Transfer,No
+40,Male,6,17,4,Credit Card,Yes
+32,Female,64,23,2,PayPal,Yes
+54,Male,27,24,2,PayPal,No
+38,Male,87,8,4,PayPal,Yes
+31,Female,35,6,4,Credit Card,Yes
+19,Male,9,5,0,PayPal,Yes
+28,Male,87,29,2,PayPal,No
+68,Male,38,28,3,PayPal,No
+56,Male,14,11,2,PayPal,No
+55,Male,93,1,2,PayPal,No
+51,Female,6,19,4,PayPal,No
+55,Female,15,9,2,Credit Card,No
+67,Female,54,27,2,PayPal,Yes
+51,Male,35,34,3,PayPal,Yes
+35,Female,60,4,4,Bank Transfer,No
+47,Male,83,18,2,Credit Card,Yes
+32,Male,77,15,1,Credit Card,No
+44,Male,91,13,0,Credit Card,No
+68,Male,87,19,3,Credit Card,No
+51,Female,13,6,2,PayPal,No
+69,Female,25,12,1,PayPal,No
+55,Male,77,17,2,Bank Transfer,Yes
+50,Female,32,23,2,Bank Transfer,No
+41,Male,66,26,4,Credit Card,No
+32,Female,11,29,4,Bank Transfer,No
+47,Female,84,33,4,Bank Transfer,Yes
+59,Male,20,27,1,Credit Card,Yes
+68,Female,8,25,2,Credit Card,Yes
+34,Male,8,10,0,Bank Transfer,No
+22,Female,44,23,3,PayPal,No
+46,Male,21,21,4,Bank Transfer,Yes
+21,Male,56,21,4,Bank Transfer,No
+27,Female,97,13,2,PayPal,Yes
+34,Female,56,33,2,PayPal,No
+27,Male,40,24,1,Credit Card,No
+34,Female,42,11,1,Credit Card,Yes
+37,Female,54,17,4,Bank Transfer,No
+41,Male,67,4,2,PayPal,No
+22,Male,67,25,0,Credit Card,No
+51,Female,66,30,3,Bank Transfer,No
+23,Male,11,9,2,PayPal,No
+19,Male,31,21,2,Bank Transfer,Yes
+30,Male,96,20,1,Credit Card,No
+60,Female,90,19,3,Credit Card,No
+60,Female,18,19,4,PayPal,No
+65,Male,75,12,2,Bank Transfer,Yes
+28,Female,90,17,4,PayPal,Yes
+68,Male,9,28,2,Credit Card,Yes
+64,Female,59,35,4,Credit Card,Yes
+40,Male,6,18,3,Bank Transfer,Yes
+33,Male,66,14,1,Bank Transfer,No
+48,Female,95,35,3,Bank Transfer,Yes
+28,Male,25,7,0,PayPal,Yes
+33,Female,83,13,1,Bank Transfer,No
+25,Female,25,18,3,Bank Transfer,Yes
+21,Male,14,13,0,Credit Card,Yes
+57,Male,91,31,2,Credit Card,Yes
+21,Female,62,2,2,Bank Transfer,Yes
+42,Male,43,16,4,Bank Transfer,No
+20,Male,9,9,1,Credit Card,Yes
+49,Male,69,9,2,Bank Transfer,No
+20,Male,17,11,1,PayPal,No
+44,Male,89,22,2,PayPal,No
+46,Female,94,33,4,PayPal,No
+49,Female,89,23,3,Bank Transfer,No
+67,Male,57,34,4,Credit Card,No
+68,Male,86,9,0,Bank Transfer,Yes
+36,Male,49,24,2,Bank Transfer,Yes
+38,Female,36,8,0,Credit Card,No
+22,Male,40,7,0,Credit Card,Yes
+35,Female,85,18,1,Credit Card,Yes
+45,Female,64,3,2,PayPal,No
+59,Female,15,28,0,Bank Transfer,No
+39,Male,67,6,3,Credit Card,Yes
+38,Female,25,21,0,Bank Transfer,No
+23,Male,56,28,3,PayPal,Yes
+18,Female,59,1,1,PayPal,No
+22,Male,30,21,0,Credit Card,Yes
+58,Female,72,35,4,Credit Card,Yes
+29,Male,38,13,1,Bank Transfer,No
+43,Female,56,10,3,Credit Card,No
+63,Male,86,10,1,Bank Transfer,No
+51,Male,97,13,0,Credit Card,No
+66,Male,56,24,2,Bank Transfer,Yes
+31,Male,33,2,2,Bank Transfer,No
+43,Female,42,22,3,Bank Transfer,Yes
+62,Female,46,17,3,Bank Transfer,Yes
+44,Male,25,14,2,PayPal,Yes
+26,Female,46,10,3,Bank Transfer,No
+43,Male,17,35,1,Credit Card,No
+64,Male,68,25,4,PayPal,No
+39,Female,21,3,4,PayPal,No
+64,Male,13,17,1,Bank Transfer,Yes
+47,Male,45,12,4,PayPal,No
+60,Female,5,24,0,Bank Transfer,No
+65,Male,6,29,1,Credit Card,Yes
+34,Male,64,25,3,Bank Transfer,No
+43,Male,52,26,1,PayPal,Yes
+53,Male,33,1,2,Credit Card,No
+18,Female,14,20,3,Bank Transfer,No
+25,Female,62,28,2,Credit Card,No
+66,Female,64,16,3,Credit Card,Yes
+52,Male,25,17,4,PayPal,Yes
+69,Male,32,28,1,Credit Card,Yes
+32,Female,79,12,0,PayPal,Yes
+64,Male,38,27,3,Credit Card,Yes
+39,Male,12,30,3,Bank Transfer,No
+31,Male,63,34,2,Credit Card,No
+43,Male,90,6,4,Bank Transfer,No
+45,Female,76,7,2,Bank Transfer,No
+40,Female,53,32,2,Credit Card,Yes
+31,Female,83,32,4,Bank Transfer,No
+41,Male,21,25,0,Credit Card,Yes
+19,Female,64,33,2,Credit Card,No
+62,Female,91,7,2,Bank Transfer,No
+43,Male,92,12,3,Bank Transfer,No
+31,Male,49,16,4,PayPal,Yes
+68,Female,87,16,1,Bank Transfer,No
+24,Female,73,13,0,PayPal,No
+20,Female,36,7,0,Bank Transfer,Yes
+64,Female,48,9,4,Credit Card,No
+40,Male,69,32,3,Bank Transfer,No
+63,Female,91,11,3,Credit Card,No
+60,Female,12,8,4,Credit Card,Yes
+64,Male,81,33,3,Credit Card,Yes
+62,Female,76,23,0,PayPal,Yes
+35,Male,91,25,0,Bank Transfer,Yes
+55,Male,47,8,1,Credit Card,Yes
